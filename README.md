@@ -4,9 +4,10 @@
 bla bla
 
 ## Downloads
-| Version                | Download                                                                                                                   |
-| :--------------------- | :------------------------------------------------------------------------------------------------------------------------- |
-| all releases           | [zip](https://github.com/Panaith/uvm.github.io/releases)                                                                     |
+
+| Version         | Download                                                  |
+| :-------------- | :-------------------------------------------------------- |
+| all releases    | [zip](https://github.com/Panaith/uvm.github.io/releases)  |
 
 ## Documentation
 ### Installation
