@@ -16,3 +16,5 @@
 4. Open cmd and execute command uvm_use, follow instructions
 5. askjdhsd
 6. eee
+7. ooo 
+8. rtrttr
