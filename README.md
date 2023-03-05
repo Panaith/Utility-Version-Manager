@@ -15,3 +15,4 @@
 4. Go to path C:uvm and for each folder download binary versions of corresponding utility and add it to corresponding folder (rename your version folders accordingly i.e '14_15_5', ...)
 4. Open cmd and execute command uvm_use, follow instructions
 5. askjdhsd
+6. eee
