@@ -22,4 +22,4 @@ bla bla
 #### Execute
 #### What happens
 
-![test](./readme/pictureTest%201.png)
+![test](./readmePics/pictureTest%201.png)
