@@ -28,7 +28,7 @@ This process creates installation folder for uvm project.
 1. Download latest [release](https://github.com/Panaith/uvm.github.io/releases/latest).
 1. Extract .zip file.
 1. Open extracted folder find "uvm_install.bat" file and execute it.
-1. Click "Yes" in Powershell prompt:
+1. Click "Yes" in Powershell prompt:  
    ![powershell admin mode](./readmePics/powershell_admin_mode.png)
 1. Follow instructions...
 
@@ -53,7 +53,7 @@ This process allows user to configure uvm project according to his needs.
     1. Delete "Java" utility directory "C:\uvm\java".
     1. Automatically Update windows environment variables according to removed utilities.
 
-## Add multiple versions for each registered utility (uvm_use)
+## Add multiple versions for each registered utility (manually)
 In this process the user manually adds the versions he wants for each of the utilities added in previous step.
 For example if you added "Java" utility
 1. Go to directory "C:\uvm". Here you will find a subfolder for your "Java" utility.
