@@ -16,12 +16,12 @@ Currently project is for **Windows** users only.
 ## Commands
 Once the uvm project is installed, open terminal (cmd, powershell) and execute any of the following commands:
 
-| Command               | Chapter                                                  |
-| :-------------------- | :------------------------------------------------------- |
-| uvm_version           | [Version](#version-uvm_version)                     |
-| uvm_install           | [Installation](#installation-uvm_install)                |
-| uvm_configuration     | [Configuration](#configuration-uvm_configure)            |
-| uvm_use               | [Usage](#usage-uvm_use)                           |
+| Command               | Documentation                                            | What it does                                                  |
+| :-------------------- | :------------------------------------------------------- | :------------------------------------------------------------ |
+| uvm_version           | [Version](#version-uvm_version)                          | retrieve current uvm version                                  |
+| uvm_install           | [Installation](#installation-uvm_install)                | install uvm project or refresh already installed uvm project  |
+| uvm_configuration     | [Configuration](#configuration-uvm_configure)            | add / remove utilitites to uvm                                |
+| uvm_use               | [Usage](#usage-uvm_use)                                  | select version for your utilities                             |
 
 ## Installation (uvm_install)
 This process creates installation folder for uvm project.
