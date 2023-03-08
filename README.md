@@ -18,12 +18,12 @@ Once the uvm project is installed, open terminal (cmd, powershell) and execute a
 
 | Command               | Documentation                                            | What it does                                                  |
 | :-------------------- | :------------------------------------------------------- | :------------------------------------------------------------ |
-| uvm_version           | [Version](#version-uvm_version)                          | retrieve current uvm version                                  |
-| uvm_install           | [Installation](#installation-uvm_install)                | install uvm project or refresh already installed uvm project  |
-| uvm_configuration     | [Configuration](#configuration-uvm_configure)            | add / remove utilitites to uvm                                |
-| uvm_use               | [Usage](#usage-uvm_use)                                  | select version for your utilities                             |
+| uvm version           | [Version](#version-uvm-version)                          | retrieve current uvm version                                  |
+| uvm install           | [Installation](#installation-uvm-install)                | install uvm project or refresh already installed uvm project  |
+| uvm config            | [Configuration](#configuration-uvm-config)               | add / remove utilitites to uvm                                |
+| uvm use               | [Usage](#usage-uvm-use)                                  | select version for your utilities                             |
 
-## Installation (uvm_install)
+## Installation (uvm install)
 This process creates installation folder for uvm project.
 1. Download latest [release](https://github.com/Panaith/uvm.github.io/releases/latest).
 1. Extract .zip file.
@@ -38,7 +38,7 @@ This process creates installation folder for uvm project.
 1. Automatically Update windows environment variables according to added utilities.
 1. Automatically continues to Configuration process...
 
-## Configuration (uvm_configuration)
+## Configuration (uvm config)
 This process allows user to configure uvm project according to his needs.
 1. Click "Yes" in Powershell prompt.
 1. Follow instructions...
@@ -67,7 +67,7 @@ For example if you added "Java" utility
 ### What happens
 Now for each utility, you have multiple versions.
 
-## Usage (uvm_use)
+## Usage (uvm use)
 This process allows user to select which utility and which version he wants to use.
 1. Follow instructions...
 
@@ -75,7 +75,7 @@ This process allows user to select which utility and which version he wants to u
 1. Automatically Update windows environment variables according to selected versions.
 1. Now you can use the version you selected through terminal (cmd, powershell).
 
-## Version (uvm_version)
+## Version (uvm version)
 This process will return the current installed uvm project version.
 
 ## Future Work
